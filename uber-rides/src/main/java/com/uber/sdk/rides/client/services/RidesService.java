@@ -111,7 +111,7 @@ public interface RidesService {
                            @Query("start_longitude") float startLongitude,
                            @Query("end_latitude") float endLatitude,
                            @Query("end_longitude") float endLongitude,
-                           @Query("seat_count") float seatCount);
+                           @Query("seat_count") int seatCount);
 
     /**
      * Gets ETAs for all products offered at a given location, with the responses expressed as
