@@ -40,7 +40,7 @@ def network = [
         moshi: 'com.squareup.moshi:moshi:1.2.0',
         okhttp: 'com.squareup.okhttp3:okhttp:3.2.0',
         okhttpLoggingInterceptor: 'com.squareup.okhttp3:logging-interceptor:3.2.0',
-        httpClientJackson: 'com.google.http-client:google-http-client-jackson2:1.19.0',
+        httpClientJackson: 'com.google.http-client:google-http-client-jackson2:1.28.0',
         oauthClient: 'com.google.oauth-client:google-oauth-client:1.19.0',
         oauthClientJetty: 'com.google.oauth-client:google-oauth-client-jetty:1.19.0',
         oauthClientServlet: 'com.google.oauth-client:google-oauth-client-servlet:1.19.0',
